@@ -1,0 +1,6 @@
+core: 8.x
+type: theme
+
+name: 'Hello theme'
+description: 'Theme for lesson #1.'
+package: 'Custom'
